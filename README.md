@@ -1,4 +1,6 @@
-# Fastify
+![Fastify Logo](https://st.timeweb.com/cloud-static/apps-logo/fastify.svg)
+
+# Fastify on Deno
 
 Пример приложения [Fastify](https://fastify.dev/) на [Deno](https://deno.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
