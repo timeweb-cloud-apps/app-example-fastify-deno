@@ -4,7 +4,7 @@
 
 Пример приложения [Fastify](https://fastify.dev/) на [Deno](https://deno.com/), которое можно развернуть в **Timeweb Cloud Apps** без настройки.
 
-:tada: Демо
+:tada: [Демо](https://twc-app-example-fastify-deno.twc1.net/)
 
 :rocket: [Создать свой Apps](https://timeweb.cloud/my/apps/create)
 
